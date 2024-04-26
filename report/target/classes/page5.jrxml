@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.21.2.final using JasperReports Library version 6.21.2-8434a0bd7c3bbc37cbf916f2968d35e4b165821a  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Blank_Letter" pageWidth="612" pageHeight="792" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="2f15ef09-80a9-498b-a425-f7ec33fb418d">
+    <property name="com.jaspersoft.studio.data.defaultdataadapter" value="One Empty Record"/>
+    <queryString>
+        <![CDATA[]]>
+    </queryString>
+    <background>
+        <band splitType="Stretch"/>
+    </background>
+    <title>
+        <band height="56" splitType="Stretch">
+            <staticText>
+                <reportElement x="110" y="10" width="390" height="30" uuid="b0b74df9-4e15-4733-b830-7af1ec5c0b34"/>
+                <textElement>
+                    <font size="22" isBold="true"/>
+                </textElement>
+                <text><![CDATA[Annexes to Agency Appointment Agreement
+]]></text>
+            </staticText>
+        </band>
+    </title>
+    <detail>
+        <band height="650" splitType="Stretch">
+            <staticText>
+                <reportElement x="49" y="494" width="520" height="156" uuid="ac63a3c4-fca3-4104-8f62-eddc57e92baf"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+            </staticText>
+            <staticText>
+                <reportElement x="20" y="25" width="550" height="25" uuid="efb84a93-9f29-40cf-a6bf-fcc1af66c994"/>
+                <textElement>
+                    <font size="18" isBold="true" isUnderline="false"/>
+                </textElement>
+                <text><![CDATA[ANNEX A (Remuneration)
+]]></text>
+            </staticText>
+            <line direction="BottomUp">
+                <reportElement x="19" y="50" width="541" height="1" uuid="be837cbc-e3d3-45e9-b084-76ee7dc07496"/>
+                <graphicElement>
+                    <pen lineWidth="3.0" lineColor="#000000"/>
+                </graphicElement>
+            </line>
+            <frame>
+                <reportElement x="20" y="120" width="261" height="101" uuid="4c306416-220c-4f36-92b6-c181fa5e001c"/>
+                <box>
+                    <pen lineWidth="1.5" lineStyle="Solid"/>
+                </box>
+                <staticText>
+                    <reportElement x="9" y="9" width="251" height="21" uuid="9655650f-1686-453d-bf02-42bcf698606d"/>
+                    <textElement>
+                        <font size="12"/>
+                    </textElement>
+                    <text><![CDATA[Signature and Company Stamp (Agent)
+Signature and Company Stamp (Agent)
+Signature and Company Stamp (Agent)
+Signature and Company Stamp (Agent)
+Signature and Company Stamp (Agent)
+]]></text>
+                </staticText>
+            </frame>
+            <frame>
+                <reportElement x="280" y="120" width="271" height="101" uuid="b1b6cba1-83b6-4908-bdb6-82c89f805a5b"/>
+                <box>
+                    <pen lineWidth="1.5" lineStyle="Solid"/>
+                </box>
+                <staticText>
+                    <reportElement x="9" y="9" width="251" height="21" uuid="5f453a8f-8749-45ab-a6d7-56f9105c2e0a"/>
+                    <textElement>
+                        <font size="12"/>
+                    </textElement>
+                    <text><![CDATA[Signature and Company Stamp (Principal)
+Signature and Company Stamp (Agent)
+Signature and Company Stamp (Agent)
+Signature and Company Stamp (Agent)
+Signature and Company Stamp (Agent)
+]]></text>
+                </staticText>
+            </frame>
+        </band>
+    </detail>
+    <summary>
+        <band height="28" splitType="Stretch">
+            <staticText>
+                <reportElement x="10" y="0" width="570" height="28" uuid="5da89f2a-6a2d-4c2a-a951-aa4467a4ab37"/>
+                <textElement>
+                    <font size="8"/>
+                </textElement>
+                <text><![CDATA[Copyright © 2017 FONASBA. Published jointly by BIMCO and FONASBA. All rights reserved. Any unauthorised copying, duplication, reproduction or distribution of this BIMCO SmartCon document will constitute an infringement of FONASBA’s copyright. Explanatory notes are available at www.bimco.org.
+]]></text>
+            </staticText>
+        </band>
+    </summary>
+</jasperReport>

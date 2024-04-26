@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.21.2.final using JasperReports Library version 6.21.2-8434a0bd7c3bbc37cbf916f2968d35e4b165821a  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Blank_Letter" pageWidth="612" pageHeight="792" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="2f15ef09-80a9-498b-a425-f7ec33fb418d">
+    <property name="com.jaspersoft.studio.data.defaultdataadapter" value="One Empty Record"/>
+    <queryString>
+        <![CDATA[]]>
+    </queryString>
+    <background>
+        <band splitType="Stretch"/>
+    </background>
+    <title>
+        <band height="56" splitType="Stretch">
+            <staticText>
+                <reportElement x="195" y="29" width="229" height="20" uuid="b0641429-69d6-4be2-a924-a2437e0b20f2"/>
+                <textElement>
+                    <font size="14" isBold="true"/>
+                </textElement>
+                <text><![CDATA[Agency Appointment Agreement]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="215" y="0" width="177" height="29" uuid="4288cbaa-9a8c-4954-8f6c-59f845699539"/>
+                <textElement textAlignment="Center" verticalAlignment="Middle">
+                    <font size="14" isBold="true"/>
+                </textElement>
+                <text><![CDATA[Part II]]></text>
+            </staticText>
+        </band>
+    </title>
+    <detail>
+        <band height="650" splitType="Stretch">
+            <staticText>
+                <reportElement x="50" y="120" width="522" height="125" uuid="e1eb20b9-23ae-41b3-943f-90d909d19b7a"/>
+                <textElement textAlignment="Justified">
+                    <font size="12" isBold="false"/>
+                </textElement>
+                <text><![CDATA[Except to the extent and solely for the amount therein set out that the Agent would be liable under Clause 14, the Principal hereby undertakes to keep the Agent and its employees, agents and sub-contractors indemnified and to hold them harmless against all actions, proceedings, claims, demands or liabilities whatsoever or howsoever arising which may be brought against them or incurred or suffered by them arising out of or in connection with the performance of this Agreement, and against and in respect of all costs, loss, damage and expenses (including legal costs and expenses on a fullindemnity basis) which the Agent may suffer or incur (either directly or indirectly) in the course of the performance of this Agreement.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="16" y="120" width="20" height="20" uuid="d30d3b00-8e5f-4d43-a6c3-0b8f115c907e"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[15.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="50" y="245" width="522" height="49" uuid="898d94de-0d0b-4256-a0e1-99b30b5899f1"/>
+                <textElement textAlignment="Justified">
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[The Agent, with the consent of the Principal, shall have authority to appoint sub-agents to perform services on behalf of the Principal, including such services as may be subject to these conditions, remaining at all times responsible for the actions of the sub-agent.
+
+
+]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="16" y="245" width="20" height="20" uuid="fb1ed690-f89a-4440-bb20-f3016af3c3a9"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[16.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="16" y="295" width="20" height="20" uuid="7f5fcd46-7424-4ac5-8694-7e498b80df7a"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[17.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="16" y="390" width="20" height="20" uuid="3807ac68-4974-4b93-a8c9-994e5232ba9c"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[19.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="50" y="295" width="522" height="32" uuid="71419456-c001-4a7c-9c4e-ed401f10554f"/>
+                <textElement textAlignment="Justified">
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[The Agent shall be discharged from all liability whatsoever to the Principal unless suit is brought within one year of the act or default of which complaint is made.
+
+]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="50" y="327" width="522" height="64" uuid="a57f447c-c4dc-4ddf-8a7b-62c7ef055af6"/>
+                <textElement textAlignment="Justified">
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[The parties agree to refer any disputes to arbitration and to incorporate the BIMCO Dispute Resolution Clause 2016 into this agreement. They have elected the governing law and jurisdiction referred to in Box 14. In the absence of a declared choice, Subclause (a), English law and London arbitration shall apply.
+]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="16" y="330" width="20" height="20" uuid="a62b9190-f891-4f73-8a1c-da044e903426"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[18.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="50" y="391" width="522" height="46" uuid="71aa15e5-e8aa-42ee-a14e-26d3943d817b"/>
+                <textElement textAlignment="Justified">
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[Notwithstanding anything in this Agreement, the Agent or the Principal shall not be required to do anything which constitutes a violation of the laws and regulations of any State to which either of them is subject.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="50" y="0" width="521" height="130" uuid="98529835-971c-4058-adf9-ac81088e2ea7"/>
+                <textElement textAlignment="Justified">
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[condition and liberty herein contained and every right, exemption from liability, defence and immunity of whatsoever nature applicable to the Agent or to which the Agent is entitled hereunder shall also be available and shall extend to protect every such employee or subcontractor acting as aforesaid and for the purpose of all the foregoing provisions of this Clause 14 the Agent is or shall be deemed to be acting as agent or trustee on behalf of and for the benefit of all persons who are or might be its servants or agents from time to time (including subcontractors as aforesaid) and all such persons shall to this extent be or be deemed to be parties to this Agreement.]]></text>
+            </staticText>
+        </band>
+    </detail>
+    <summary>
+        <band height="28" splitType="Stretch">
+            <staticText>
+                <reportElement x="10" y="0" width="570" height="28" uuid="5da89f2a-6a2d-4c2a-a951-aa4467a4ab37"/>
+                <textElement>
+                    <font size="8"/>
+                </textElement>
+                <text><![CDATA[Copyright © 2017 FONASBA. Published jointly by BIMCO and FONASBA. All rights reserved. Any unauthorised copying, duplication, reproduction or distribution of this BIMCO SmartCon document will constitute an infringement of FONASBA’s copyright. Explanatory notes are available at www.bimco.org.
+]]></text>
+            </staticText>
+        </band>
+    </summary>
+</jasperReport>

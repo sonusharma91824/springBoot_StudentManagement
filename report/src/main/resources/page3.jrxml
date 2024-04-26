@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.21.2.final using JasperReports Library version 6.21.2-8434a0bd7c3bbc37cbf916f2968d35e4b165821a  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Blank_Letter" pageWidth="612" pageHeight="792" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="2f15ef09-80a9-498b-a425-f7ec33fb418d">
+    <property name="com.jaspersoft.studio.data.defaultdataadapter" value="One Empty Record"/>
+    <queryString>
+        <![CDATA[]]>
+    </queryString>
+    <background>
+        <band splitType="Stretch"/>
+    </background>
+    <title>
+        <band height="52" splitType="Stretch">
+            <staticText>
+                <reportElement x="195" y="29" width="229" height="20" uuid="b0641429-69d6-4be2-a924-a2437e0b20f2"/>
+                <textElement>
+                    <font size="14" isBold="true"/>
+                </textElement>
+                <text><![CDATA[Agency Appointment Agreement]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="215" y="0" width="177" height="29" uuid="4288cbaa-9a8c-4954-8f6c-59f845699539"/>
+                <textElement textAlignment="Center" verticalAlignment="Middle">
+                    <font size="14" isBold="true"/>
+                </textElement>
+                <text><![CDATA[Part II]]></text>
+            </staticText>
+        </band>
+    </title>
+    <detail>
+        <band height="655" splitType="Stretch">
+            <staticText>
+                <reportElement x="48" y="-1" width="522" height="50" uuid="e1eb20b9-23ae-41b3-943f-90d909d19b7a"/>
+                <textElement textAlignment="Justified">
+                    <font size="12" isBold="false"/>
+                </textElement>
+                <text><![CDATA[Where the Agent has spent time and incurred costs due to unexpected occurrences creating additional work or delay to the Vessel, the Agent shall be reimbursed the actual expenses and paid an appropriate fee for the additional work.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="16" y="-1" width="20" height="20" uuid="d30d3b00-8e5f-4d43-a6c3-0b8f115c907e"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[8.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="48" y="49" width="522" height="50" uuid="a7be9ced-f000-4208-811c-f0adb075068a"/>
+                <textElement textAlignment="Justified">
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[Where the Agent has spent time and incurred costs in anticipation of the Vessel’s call which is subsequently cancelled, the Agent shall be reimbursed the actual expenses and paid an appropriate fee for the work.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="48" y="99" width="522" height="35" uuid="cd6c2623-4481-4c03-9f5a-93b832c0fe47"/>
+                <textElement textAlignment="Justified">
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[Any proforma Disbursements account is a non-binding estimate. The final Disbursements account may vary from the proforma and the Principal is liable to pay the actual Disbursements.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="16" y="50" width="20" height="20" uuid="d393620f-629d-4763-90b4-2f27aed260e8"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[9.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="16" y="100" width="20" height="20" uuid="d0b4ff4c-9321-4956-91f1-71c8421d56e5"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[10.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="48" y="134" width="522" height="36" uuid="898d94de-0d0b-4256-a0e1-99b30b5899f1"/>
+                <textElement textAlignment="Justified">
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[Payment to the Agent shall be in accordance with Box 11. Where applicable, the Principal shall pay by electronic transfer to the Agent’s bank account specified in Box 9. If the Principal should fail to comply, the Agent may:]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="16" y="134" width="20" height="20" uuid="fb1ed690-f89a-4440-bb20-f3016af3c3a9"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[11.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="30" y="170" width="540" height="20" uuid="adaad71a-3551-4289-8377-b83cfa858187"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[(a)     at any time give immediate notice of the termination of the agency;]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="30" y="190" width="540" height="20" uuid="fe1fbb71-80c9-43f4-8cfc-78d069bfcad6"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[(b)     inform any suppliers, service providers or authorities that the Agent has not been put in funds;
+]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="30" y="210" width="540" height="20" uuid="c1b8975b-abff-4c1b-8a06-c39dc0fdb84a"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[(c)     take any necessary measures to detain the Vessel in port until such funds are received; and
+]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="30" y="230" width="540" height="20" uuid="aba340a9-29ef-4864-8179-1a63e43e5dcc"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[(d)     retain such documents as the Agent has in its possession pending payment.
+]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="48" y="250" width="522" height="50" uuid="7b0c552d-e5c9-41eb-82da-aacbba6c2700"/>
+                <textElement textAlignment="Justified">
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[If the Principal fails to make payment in full of any sums due to the Agent on demand or within any period agreed in writing, the Agent shall be entitled to recover interest on any sums outstanding at the rate of 2% above LIBOR applicable during the period when the sums are outstanding.
+
+
+]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="16" y="250" width="20" height="20" uuid="7f5fcd46-7424-4ac5-8694-7e498b80df7a"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[12.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="48" y="300" width="522" height="34" uuid="3aed038b-d92a-43a1-b471-4633da101145"/>
+                <textElement textAlignment="Justified">
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[The Agent shall be entitled to deduct from the sums held for the Principal’s account any amount due from the Principal.
+
+]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="48" y="334" width="522" height="80" uuid="cf5f1ab8-c0fc-4c0b-a927-ba190f1c9766"/>
+                <textElement textAlignment="Justified">
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[Liability to Principal - The Agent shall not be liable to the Principal for any loss, damage, delay or expense of whatsoever nature, whether direct or indirect, (including but not limited to loss of profit arising out of or in connection with detention of or delay to the Vessel) and howsoever arising in the course of performance of this Agreement, unless same is proved to have resulted solely from the negligence or wilful default of the Agent.
+
+
+
+]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="48" y="414" width="522" height="80" uuid="19385f62-0b39-44c4-847d-ff301c38e813"/>
+                <textElement textAlignment="Justified">
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[Save where loss, damage, delay or expense has resulted from the Agent’s personal act or omission committed with the intent to cause same or recklessly and with knowledge that such loss, damage, delay or expense would probably result, the Agent’s liability for each incident or series of incidents giving rise to a claim or claims shall never exceed a total of ten (10) times the Remuneration specified in Box 10 which shall be deemed earned in any event.
+]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="48" y="494" width="520" height="136" uuid="ac63a3c4-fca3-4104-8f62-eddc57e92baf"/>
+                <textElement textAlignment="Justified">
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[Himalaya - It is hereby expressly agreed that no employee of the Agent (including every sub-contractor from time to time employed by the Agent) shall in any circumstances whatsoever be under any liability whatsoever to the Principal for any expense, loss, damage or delay of whatsoever kind arising or resulting directly or indirectly from any act, neglect, or default on its part while acting in the course of or in connection with its employment and, without prejudice to the generality of the foregoing provisions in this Clause 14, every exemption, limitation,
+
+
+
+
+]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="16" y="300" width="20" height="20" uuid="3807ac68-4974-4b93-a8c9-994e5232ba9c"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[13.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="16" y="334" width="20" height="20" uuid="0125e798-c0e4-4b02-ba00-3d5be030c5d3"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[14.]]></text>
+            </staticText>
+        </band>
+    </detail>
+    <summary>
+        <band height="28" splitType="Stretch">
+            <staticText>
+                <reportElement x="10" y="0" width="570" height="28" uuid="5da89f2a-6a2d-4c2a-a951-aa4467a4ab37"/>
+                <textElement>
+                    <font size="8"/>
+                </textElement>
+                <text><![CDATA[Copyright © 2017 FONASBA. Published jointly by BIMCO and FONASBA. All rights reserved. Any unauthorised copying, duplication, reproduction or distribution of this BIMCO SmartCon document will constitute an infringement of FONASBA’s copyright. Explanatory notes are available at www.bimco.org.
+]]></text>
+            </staticText>
+        </band>
+    </summary>
+</jasperReport>

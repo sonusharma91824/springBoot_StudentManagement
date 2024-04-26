@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.21.2.final using JasperReports Library version 6.21.2-8434a0bd7c3bbc37cbf916f2968d35e4b165821a  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Blank_Letter" pageWidth="612" pageHeight="792" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="2f15ef09-80a9-498b-a425-f7ec33fb418d">
+    <property name="com.jaspersoft.studio.data.defaultdataadapter" value="One Empty Record"/>
+    <queryString>
+        <![CDATA[]]>
+    </queryString>
+    <background>
+        <band splitType="Stretch"/>
+    </background>
+    <title>
+        <band height="53" splitType="Stretch">
+            <staticText>
+                <reportElement x="195" y="29" width="229" height="20" uuid="b0641429-69d6-4be2-a924-a2437e0b20f2"/>
+                <textElement>
+                    <font size="14" isBold="true"/>
+                </textElement>
+                <text><![CDATA[Agency Appointment Agreement]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="215" y="0" width="177" height="29" uuid="4288cbaa-9a8c-4954-8f6c-59f845699539"/>
+                <textElement textAlignment="Center" verticalAlignment="Middle">
+                    <font size="14" isBold="true"/>
+                </textElement>
+                <text><![CDATA[Part II]]></text>
+            </staticText>
+        </band>
+    </title>
+    <detail>
+        <band height="625" splitType="Stretch">
+            <staticText>
+                <reportElement x="37" y="19" width="73" height="21" uuid="9b56c019-2ba2-4570-967d-87deceb430df"/>
+                <textElement>
+                    <font size="12" isBold="true"/>
+                </textElement>
+                <text><![CDATA[Definitions]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="37" y="40" width="520" height="29" uuid="b66357a4-816b-4e95-84a8-96c649bcde53"/>
+                <textElement>
+                    <font size="12" isBold="false"/>
+                </textElement>
+                <text><![CDATA[“Agent” means the party stated in Box 2.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="37" y="60" width="520" height="29" uuid="de8c6ffc-9211-40dc-8f00-568394f01dbb"/>
+                <textElement>
+                    <font size="12" isBold="false"/>
+                </textElement>
+                <text><![CDATA[“Principal” means the party stated in Box 3.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="37" y="80" width="520" height="50" uuid="87a72a42-4f4c-4608-b1ce-5d938662a741"/>
+                <textElement textAlignment="Justified">
+                    <font size="12" isBold="false"/>
+                </textElement>
+                <text><![CDATA[“Inward Clearance of the Vessel” means making arrangements to allow entry of the vessel and shall include, but not be limited to, complying with therequirements of statutory and regulatory authorities and arranging and coordinating the provision of inward port services.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="37" y="130" width="520" height="59" uuid="d0ec59a4-d2d9-4bae-a69c-2820630c0f11"/>
+                <textElement textAlignment="Justified">
+                    <font size="12" isBold="false"/>
+                </textElement>
+                <text><![CDATA[“Outward Clearance of the Vessel” means making arrangements to allow departure of the vessel and shall include, but not be limited to, complying with the requirements of statutory and regulatory authorities and arranging and coordinating the provision of outward port services.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="37" y="180" width="520" height="50" uuid="682c2d0e-7aff-4e11-ab5b-54c23be03d9e"/>
+                <textElement textAlignment="Justified">
+                    <font size="12" isBold="false"/>
+                </textElement>
+                <text><![CDATA[“Cargo Operations” means activities relating to cargo and passengers and shall include, but not be limited to, coordination of stevedores and terminal operators, reporting cargo to relevant customs authorities and documentation.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="37" y="230" width="520" height="50" uuid="5b0f7a9a-0c12-490d-a567-25ea0fd32254"/>
+                <textElement textAlignment="Justified">
+                    <font size="12" isBold="false"/>
+                </textElement>
+                <text><![CDATA[“Husbandry” means activities relating to the day to day running of the vessel and shall include but not be limited to: attending to the Master and all crew matters; coordination of ship supplies and repairs; and attending to third parties such as classification society and flag state representatives and surveyors.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="37" y="280" width="520" height="40" uuid="fa63e72f-17df-40b1-97fc-bdfaf50ee56e"/>
+                <textElement textAlignment="Justified">
+                    <font size="12" isBold="false"/>
+                </textElement>
+                <text><![CDATA[“Remuneration” means the fee, commission or other sum payable to the Agent for performing the services specified in Box 8 or as may otherwise be agreed.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="37" y="315" width="520" height="39" uuid="dc578977-a2f9-47f4-bf3d-c0cae5062792"/>
+                <textElement>
+                    <font size="12" isBold="false"/>
+                </textElement>
+                <text><![CDATA[“Funding” means the terms on which Remuneration will be paid and Disbursements settled.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="37" y="335" width="520" height="29" uuid="3fc8fb19-b4cd-492c-9e8c-bb171f8d3f07"/>
+                <textElement>
+                    <font size="12" isBold="false"/>
+                </textElement>
+                <text><![CDATA[“Disbursements” means expenses payable to third parties in relation to the port call. ]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="37" y="365" width="158" height="20" uuid="f5a4c3ab-464c-44a6-bd4c-cb8a457de860"/>
+                <textElement>
+                    <font size="14" isBold="true"/>
+                </textElement>
+                <text><![CDATA[Terms and Conditions]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="48" y="385" width="511" height="29" uuid="4f07ec20-9490-4c6d-a10e-68e300dc4a56"/>
+                <textElement>
+                    <font size="12" isBold="false"/>
+                </textElement>
+                <text><![CDATA[The Agent has agreed to act on behalf of the Principal in accordance with this Agreement.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="48" y="405" width="511" height="40" uuid="b4930e1c-5c0e-4ea1-9386-4e84a7b0020e"/>
+                <textElement textAlignment="Justified">
+                    <font size="12" isBold="false"/>
+                </textElement>
+                <text><![CDATA[The Agent acts at all times as agent for and on behalf of the Principal and has authority to place orders with suppliers as agent for the Principal.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="48" y="440" width="511" height="40" uuid="a589decd-acf5-4e63-96b9-330773084193"/>
+                <textElement textAlignment="Justified">
+                    <font size="12" isBold="false"/>
+                </textElement>
+                <text><![CDATA[The Agent shall perform the services stated in Box 8 with due dispatch but shall not be liable for any loss or damage arising from any delay which the Agent could not reasonably prevent.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="48" y="475" width="511" height="40" uuid="8bcd5c9b-7aee-4b83-89f3-84a34f0a807a"/>
+                <textElement textAlignment="Justified">
+                    <font size="12" isBold="false"/>
+                </textElement>
+                <text><![CDATA[The Agent shall maintain regular contact with the Master and Principal and keep them fully informed about all matters relating to or affecting the services being provided.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="48" y="510" width="511" height="40" uuid="8bcd5c9b-7aee-4b83-89f3-84a34f0a807a"/>
+                <textElement textAlignment="Justified">
+                    <font size="12" isBold="false"/>
+                </textElement>
+                <text><![CDATA[The Agent shall liaise with and ensure that third parties including, but not limited to, port and terminal operators,port service providers, and shore authorities are provided with relevant information and timely notices. The Agent shall pass on information provided by the Principal promptly, but is not liable for the accuracy of the information.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="48" y="545" width="511" height="34" uuid="8bcd5c9b-7aee-4b83-89f3-84a34f0a807a"/>
+                <textElement textAlignment="Justified">
+                    <font size="12" isBold="false"/>
+                </textElement>
+                <text><![CDATA[The Agent shall use best endeavours to encourage shore authorities, port and terminal operators, and port service providers to render their invoices in a timely manner and take prompt action to obtain any invoices that are not provided. The Agent shall check the invoices and make timely payments to the relevant parties.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="48" y="580" width="511" height="38" uuid="8bcd5c9b-7aee-4b83-89f3-84a34f0a807a"/>
+                <textElement textAlignment="Justified">
+                    <font size="12" isBold="false"/>
+                </textElement>
+                <text><![CDATA[The Agent shall be remunerated as specified in Box 10 in respect of the services specified in Box 8. Remuneration for other services will be agreed between the parties. The Principal is not obliged to use the Agent to perform such other services.
+]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="16" y="385" width="20" height="20" uuid="4ea88f81-920e-423b-ba13-2018b2d1a262"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[1.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="16" y="405" width="20" height="20" uuid="50ab749c-343d-4dd2-9125-bbd510813769"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[2.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="16" y="440" width="20" height="20" uuid="986a13b3-da23-496b-927b-d335452289db"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[3.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="16" y="475" width="20" height="20" uuid="6d2817a1-8959-47bd-9fcc-7b65bd84f5c1"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[4.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="16" y="510" width="20" height="20" uuid="b8757234-a840-4a7b-a00f-da45d1ac7391"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[5.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="16" y="545" width="20" height="20" uuid="24afcbaf-6062-4879-a05a-d15d435b9833"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[6.]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="16" y="580" width="20" height="20" uuid="d43e85b4-2882-47d7-9ec1-4ea8540769f7"/>
+                <textElement>
+                    <font size="12"/>
+                </textElement>
+                <text><![CDATA[7.]]></text>
+            </staticText>
+        </band>
+    </detail>
+    <summary>
+        <band height="62" splitType="Stretch">
+            <staticText>
+                <reportElement x="10" y="10" width="548" height="36" uuid="5da89f2a-6a2d-4c2a-a951-aa4467a4ab37"/>
+                <textElement textAlignment="Justified">
+                    <font size="8"/>
+                </textElement>
+                <text><![CDATA[Copyright © 2017 FONASBA. Published jointly by BIMCO and FONASBA. All rights reserved. Any unauthorised copying, duplication, reproduction or distribution of this BIMCO SmartCon document will constitute an infringement of FONASBA’s copyright. Explanatory notes are available at www.bimco.org.
+]]></text>
+            </staticText>
+        </band>
+    </summary>
+</jasperReport>
